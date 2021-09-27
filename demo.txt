@@ -8,3 +8,6 @@ Read array
 DO I=1TO 3;
 GET LIST(ARRAY_NAME(3));
 END;
+
+
+TEST
